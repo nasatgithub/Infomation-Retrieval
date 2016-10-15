@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="K:/elasticsearch-1.4.2/elasticsearch-1.4.2/lib/elasticsearch-1.4.2.jar"/>
+	<classpathentry kind="lib" path="K:/elasticsearch-1.4.2/elasticsearch-1.4.2/lib/lucene-analyzers-common-4.10.2.jar"/>
+	<classpathentry kind="lib" path="K:/elasticsearch-1.4.2/elasticsearch-1.4.2/lib/lucene-core-4.10.2.jar"/>
+	<classpathentry kind="lib" path="K:/elasticsearch-1.4.2/elasticsearch-1.4.2/lib/lucene-expressions-4.10.2.jar"/>
+	<classpathentry kind="lib" path="K:/elasticsearch-1.4.2/elasticsearch-1.4.2/lib/lucene-grouping-4.10.2.jar"/>
+	<classpathentry kind="lib" path="K:/elasticsearch-1.4.2/elasticsearch-1.4.2/lib/lucene-highlighter-4.10.2.jar"/>
+	<classpathentry kind="lib" path="K:/elasticsearch-1.4.2/elasticsearch-1.4.2/lib/lucene-join-4.10.2.jar"/>
+	<classpathentry kind="lib" path="K:/elasticsearch-1.4.2/elasticsearch-1.4.2/lib/lucene-memory-4.10.2.jar"/>
+	<classpathentry kind="lib" path="K:/elasticsearch-1.4.2/elasticsearch-1.4.2/lib/lucene-misc-4.10.2.jar"/>
+	<classpathentry kind="lib" path="K:/elasticsearch-1.4.2/elasticsearch-1.4.2/lib/lucene-queries-4.10.2.jar"/>
+	<classpathentry kind="lib" path="K:/elasticsearch-1.4.2/elasticsearch-1.4.2/lib/lucene-queryparser-4.10.2.jar"/>
+	<classpathentry kind="lib" path="K:/elasticsearch-1.4.2/elasticsearch-1.4.2/lib/lucene-sandbox-4.10.2.jar"/>
+	<classpathentry kind="lib" path="K:/elasticsearch-1.4.2/elasticsearch-1.4.2/lib/lucene-spatial-4.10.2.jar"/>
+	<classpathentry kind="lib" path="K:/elasticsearch-1.4.2/elasticsearch-1.4.2/lib/lucene-suggest-4.10.2.jar"/>
+	<classpathentry kind="lib" path="K:/elasticsearch-1.4.2/elasticsearch-1.4.2/lib/groovy-all-2.3.2.jar"/>
+	<classpathentry kind="lib" path="I:/Json Parser library/org.json-20120521.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
